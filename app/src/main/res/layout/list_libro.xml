@@ -10,7 +10,8 @@
         android:text="New Text"
         android:id="@+id/textView2"
         android:textSize="20dp"
-        android:layout_marginTop="5dp"
+        android:layout_marginTop="10dp"
         android:layout_marginLeft="5dp"
-        android:textColor="#fff" />
+        android:textColor="#fff"
+        android:layout_marginBottom="10dp" />
 </LinearLayout>
